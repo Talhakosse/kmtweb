@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/efdf1c98e80fb9d3.css","style"]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/industrial-fire-sprinkler-system-pipes-red-valves.jpg","image"]
+:HL["/industrial-fire-protection-system-engineering-team.jpg","image"]
+:HL["/factory-warehouse-fire-sprinkler-system-installati.jpg","image"]
+:HL["/industrial-fire-pump-room-system.jpg","image"]
+:HL["/logistics-warehouse-fire-protection-pipes.jpg","image"]
+:HL["/outdoor-fire-hydrant-system-industrial.jpg","image"]
+0:{"buildId":"lfIQZSwTZI_ONgscT2d_c","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
